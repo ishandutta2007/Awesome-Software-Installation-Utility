@@ -53,9 +53,9 @@ Commercial installer solutions provide specialized wizard UIs, enterprise MSI pa
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source installer frameworks power the vast majority of software installations globally. Below are top repositories sorted by **GitHub Star Count (descending)**. Each badge links directly to the repository's stargazers page:
+Open-source installer frameworks power the vast majority of software installations globally. Below are top repositories sorted by **GitHub Stars_Count (descending)**. Each badge links directly to the repository's stargazers page:
 
-| Rank 🏆 | Project 📦 | Star Count 🌟 | License 📜 | Description & Key Features 🚀 |
+| Rank 🏆 | Project 📦 | Stars_Count 🌟 | License 📜 | Description & Key Features 🚀 |
 | :---: | :--- | :---: | :---: | :--- |
 | 1 | **[Tauri](https://github.com/tauri-apps/tauri)** | [<img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social&color=white" alt="Tauri Stars"/>](https://github.com/tauri-apps/tauri/stargazers) | Apache-2.0 / MIT | Build smaller, faster, and more secure desktop applications with native bundlers for Windows (.msi, .exe), macOS (.app, .dmg), and Linux (.deb, .AppImage). |
 | 2 | **[Scoop](https://github.com/ScoopInstaller/Scoop)** | [<img src="https://img.shields.io/github/stars/ScoopInstaller/Scoop?style=social&color=white" alt="Scoop Stars"/>](https://github.com/ScoopInstaller/Scoop/stargazers) | MIT | A command-line installer for Windows that installs programs without GUI popups or admin elevation required. |
